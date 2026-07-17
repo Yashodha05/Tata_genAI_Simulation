@@ -93,13 +93,19 @@ Results are displayed in the Streamlit interface.
 # Application Screenshots
 Home Page
 
+
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/18231dfc-43ce-48af-8949-5af39f7e77fa" />
+
 
 
 Customer Input Form
 
 
+
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b342ac63-5726-4136-982c-67b5513f1bd0" />
+
+
+
 
 
 
@@ -107,10 +113,14 @@ Customer Input Form
 
 
 
+
 Prediction Result
 
 
+
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f17d33cc-eee0-4cff-9cb6-b6f508b8030a" />
+
+
 
 
 
