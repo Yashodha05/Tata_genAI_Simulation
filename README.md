@@ -24,23 +24,17 @@ End-to-End ML + LLM Pipeline
 # Application Workflow
 
 Customer Inputs
-        │
-        ▼
+        ->
 Data Preprocessing
-        │
-        ▼
+        ->
 Logistic Regression Model
-        │
-        ▼
+        ->
 Probability of Delinquency
-        │
-        ▼
+        ->
 Customer Profile + ML Prediction
-        │
-        ▼
+        ->
 Hugging Face LLM
-        │
-        ▼
+        ->
 Financial Analysis
 
 Recommendation
@@ -101,17 +95,23 @@ Home Page
 
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/18231dfc-43ce-48af-8949-5af39f7e77fa" />
 
+
 Customer Input Form
 
+
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b342ac63-5726-4136-982c-67b5513f1bd0" />
+
 
 
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/cce51b1b-65bc-4ae8-8814-db74310eb8a1" />
 
 
+
 Prediction Result
 
+
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f17d33cc-eee0-4cff-9cb6-b6f508b8030a" />
+
 
 
 AI Generated Analysis
@@ -120,7 +120,9 @@ AI Generated Recommendation
 
 AI Generated Customer Email
 
+
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/bd0ced80-bde2-4fa8-ba1f-2b9a396b14d9" />
+
 
 
 # Project Structure
@@ -137,7 +139,7 @@ FinGuard-Agentic-AI/
 
 Clone the repository
 
-git clone <repository-link>
+git clone- https://github.com/Yashodha05/Tata_genAI_Simulation
 
 Navigate to the project
 
